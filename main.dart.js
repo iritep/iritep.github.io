@@ -86919,7 +86919,7 @@ $1(a){var s={}
 s.a=null
 switch(a.a){case"/":case"/sign-in":s.a=new A.uJ(this.a.c,B.Ak)
 break
-case"/dashboard":s.a=new A.At(this.a.c,"/status",null)
+case"/dashboard":s.a=new A.At(this.a.c,"/stores",null)
 break
 default:s.a=new A.uJ(this.a.c,B.Ak)
 break}return A.ax1(new A.aaC(s),a,t.z)},
