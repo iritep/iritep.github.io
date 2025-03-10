@@ -86010,7 +86010,7 @@ f=r.h(0,600)}else{e.toString
 f=r.h(0,700)}a0.a.toString
 e=A.dW(r.h(0,700),-1,B.o,1)
 c=A.bH(24,"assets/images/"+A.bz("icon_reports.svg"),24)
-d=A.ks(a0.a.e,a1,new A.bx(f,a1,e,B.db,a1,a1,B.D),40,c,!0,!0,a1,h,0,new A.abK(a0),B.nS,"Reports",a1,d,a1)
+d=A.ks(a0.a.e,a1,new A.bx(f,a1,e,B.db,a1,a1,B.D),40,c,!0,!0,a1,h,0,new A.abK(a0),B.nS,"Reports",a1,d,1/0)
 if($.awZ==="StoreManager")h=B.Z
 else{h=r.h(0,600)
 f=A.aU(a1,a1,B.j,a1,a1,a1,a1,a1,a1,a1,a1,16,a1,a1,A.cc(500).w,a1,1.5,!0,a1,a1,a1,a1,a1,a1,a1,a1)
@@ -86021,7 +86021,7 @@ e=r.h(0,600)}else{c.toString
 e=r.h(0,700)}a0.a.toString
 c=A.dW(r.h(0,700),-1,B.o,1)
 b=A.bH(24,"assets/images/"+A.bz("icon_status.svg"),24)
-f=A.ks(a0.a.e,a1,new A.bx(e,a1,c,B.db,a1,a1,B.D),40,b,!0,!0,a1,h,0,new A.abL(a0),B.nS,"Status",a1,f,a1)
+f=A.ks(a0.a.e,a1,new A.bx(e,a1,c,B.db,a1,a1,B.D),40,b,!0,!0,a1,h,0,new A.abL(a0),B.nS,"Status",a1,f,1/0)
 h=f}h=A.ca(A.b([j,B.Ju,i,B.jT,g,B.jT,d,B.jT,h],k),B.E,B.w,B.p)
 d=A.bH(24,"assets/images/"+A.bz(a2),24)
 g=a0.y
@@ -87562,7 +87562,7 @@ $S:7}
 A.aaF.prototype={}
 A.aaG.prototype={
 gnT(){var s=this.a
-return s===$?this.a="https://testlive.laundrycard.com/api":s},
+return s===$?this.a="https://live.laundrycard.com/api":s},
 gIi(){var s=this.b
 return s===$?this.b="assets/images":s},
 Ke(){var s,r="http://localhost:44000",q="https://iritep.github.io",p=A.IP(B.oU.glW(window.location)),o=A.dz(r,0,null),n=A.IP(o.glW(o))
